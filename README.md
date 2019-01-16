@@ -6,15 +6,15 @@ https://github.com/ickkim/We-Know-Vue/wiki
 
 그리고 Vue 이외 다음의 사항은 아래 링크에서 정리할 예정입니다.
 
-[node.js]()
+*  [node.js]()
 
-[React]()
+* [React]()
 
-[AWS]()
+* [AWS]()
 
-[Google Cloud Platform]()
+* [Google Cloud Platform]()
 
-[MS Azure]()
+* [MS Azure]()
 
-[nCloud]()
+* [nCloud]()
 
